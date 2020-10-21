@@ -39,9 +39,6 @@ Online preview address: [link](https://4ark.me/star-battle)
 6. The game allows negative points。
 7. Press P to pause the game, press M to mute。
 
-## Author
-
-> [Blog](https://4ark.me/) · GitHub [@gd4Ark](https://github.com/gd4Ark)
 
 ## At last
 
